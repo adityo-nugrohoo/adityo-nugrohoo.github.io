@@ -285,7 +285,7 @@ section {
     }
 
     .navbar ul {
-        display: block;
+        display: none;
     }
 }
 
@@ -341,7 +341,6 @@ section {
 .navbar-mobile .dropdown ul {
     position: static;
     display: none;
-
     margin: 10px 20px;
     padding: 10px 0;
     z-index: 99;
